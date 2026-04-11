@@ -3118,5 +3118,18 @@
     "start_date_local": "2026-03-16T12:21:09",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 700.0,
+    "elevation_gain": 0.0,
+    "id": "22479773371",
+    "moving_time": 1089.7330322265625,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-04-10T10:46:25",
+    "type": "Swim",
+    "year": 2026
   }
 ]
