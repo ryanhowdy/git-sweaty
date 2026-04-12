@@ -3131,5 +3131,18 @@
     "start_date_local": "2026-04-10T10:46:25",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3240.22998046875,
+    "elevation_gain": 1.0,
+    "id": "22490655473",
+    "moving_time": 1789.0,
+    "name": "Canal Winchester Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-11T11:28:01",
+    "type": "Walk",
+    "year": 2026
   }
 ]
