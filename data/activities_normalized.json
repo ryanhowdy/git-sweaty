@@ -3157,5 +3157,18 @@
     "start_date_local": "2026-04-16T10:41:00",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 8046.720000000001,
+    "elevation_gain": 0.0,
+    "id": "22572045416",
+    "moving_time": 1620.0,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-04-18T10:49:40",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
