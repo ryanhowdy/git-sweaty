@@ -3170,5 +3170,18 @@
     "start_date_local": "2026-04-18T10:49:40",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 700.0,
+    "elevation_gain": 0.0,
+    "id": "22606988731",
+    "moving_time": 1056.6639404296875,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-04-21T11:00:44",
+    "type": "Swim",
+    "year": 2026
   }
 ]
