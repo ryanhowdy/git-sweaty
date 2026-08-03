@@ -3209,5 +3209,31 @@
     "start_date_local": "2026-04-26T18:18:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 4402.6201171875,
+    "elevation_gain": 1.0796661376953125,
+    "id": "23830475607",
+    "moving_time": 2512.0,
+    "name": "Canal Winchester Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-02T18:06:47",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 4075.1298828125,
+    "elevation_gain": 0.6497802734375,
+    "id": "23830478936",
+    "moving_time": 2399.0,
+    "name": "Canal Winchester Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-02T19:21:59",
+    "type": "Run",
+    "year": 2026
   }
 ]
