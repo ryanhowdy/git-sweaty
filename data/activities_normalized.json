@@ -3248,5 +3248,31 @@
     "start_date_local": "2026-11-18T08:53:01",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 1718.260009765625,
+    "elevation_gain": 6.1999969482421875,
+    "id": "25125749535",
+    "moving_time": 1119.4140014648438,
+    "name": "Ashville Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-18T18:38:23",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 436.2799987792969,
+    "elevation_gain": 0.0,
+    "id": "25125885284",
+    "moving_time": 302.0,
+    "name": "Ashville Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-18T19:14:09",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -2249,6 +2249,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/25120219217",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 18,
+      "name": "Ashville Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/25125749535",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 19,
+      "name": "Ashville Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/25125885284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4245,11 +4263,21 @@
           "distance": 3240.22998046875,
           "elevation_gain": 1.0,
           "moving_time": 1789.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "25125749535",
+            "25125885284"
+          ],
+          "count": 2,
+          "distance": 2154.540008544922,
+          "elevation_gain": 6.1999969482421875,
+          "moving_time": 1421.4140014648438
         }
       }
     }
   },
-  "generated_at": "2026-11-18T22:31:36.044163+00:00",
+  "generated_at": "2026-11-19T22:37:44.763933+00:00",
   "other_bucket": "OtherSports",
   "repo": "ryanhowdy/git-sweaty",
   "source": "garmin",
