@@ -3287,5 +3287,18 @@
     "start_date_local": "2026-11-23T19:10:23",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 600.0,
+    "elevation_gain": 0.0,
+    "id": "25184685580",
+    "moving_time": 968.4829711914062,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-11-24T09:31:25",
+    "type": "Swim",
+    "year": 2026
   }
 ]
