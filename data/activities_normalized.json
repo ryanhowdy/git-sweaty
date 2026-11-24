@@ -3274,5 +3274,18 @@
     "start_date_local": "2026-11-18T19:14:09",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 2159.159912109375,
+    "elevation_gain": 0.0,
+    "id": "25179216446",
+    "moving_time": 1370.083984375,
+    "name": "Ashville Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-23T19:10:23",
+    "type": "Walk",
+    "year": 2026
   }
 ]
